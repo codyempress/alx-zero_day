@@ -1,1 +1,1 @@
-This is my 0x03 git repositoru.
+This is my 0x03 git repository.
